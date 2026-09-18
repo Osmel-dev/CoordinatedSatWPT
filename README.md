@@ -13,7 +13,7 @@ Satellite-enabled wireless power transfer (WPT) may be a transformative solution
 
 ## Content of Code Package
 
-The repository contains Python and MATLAB scripts and user-defined functions required to reproduce the numerical results in the article. To run the code of the RF-WPT results, we recommend the use of high-performance computing services as these may take hours if not days to complete on a personal computer. 
+The repository contains Python and MATLAB scripts and user-defined functions required to reproduce the numerical results in the article. To run the code for the RF-WPT results, we recommend using high-performance computing resources, as the simulations may take hours or even days to complete on a personal computer. Also, we advise the use of MOSEK (via CVXPY) as the optimization solver.
 
 See each file for further documentation.
 
